@@ -2,11 +2,17 @@
 My NotSoBasicCAD assignments, consisting of models of a candlestick, hammer head, pressure plate, and box that were made to learn how to do sweeps and lofts in addition to more basic CAD concepts.
 
 - [Tutor](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#tutor)
-- [Pressure Plate](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#pressure-plate)
-- [Sweeps and Lofts](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#sweeps-and-lofts)
   - [Objective](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#objective)
   - [Visuals](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#visuals)
   - [Obstacles](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#obstacles)
+- [Pressure Plate](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#pressure-plate)
+  - [Objective](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#objective-1)
+  - [Visuals](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#visuals-1)
+  - [Obstacles](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#obstacles-1)
+- [Sweeps and Lofts](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#sweeps-and-lofts)
+  - [Objective](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#objective-2)
+  - [Visuals](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#visuals-2)
+  - [Obstacles](https://github.com/lschenc41/NotSoBasicCAD/blob/master/README.md#obstacles-2)
 ## Tutor
 ### Objective
 ### Visuals
