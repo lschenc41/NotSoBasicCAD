@@ -32,4 +32,4 @@ Candlestick:\
 Hammer Head:\
 <img src="https://github.com/lschenc41/NotSoBasicCAD/blob/master/Media/Hammer1.PNG" alt="Hammer1" width="250" height="150"> <img src="https://github.com/lschenc41/NotSoBasicCAD/blob/master/Media/Hammer2.PNG" alt="Hammer2" width="200" height="150">
 ### Obstacles
-As with the previous assignment, I didn't have many issues while making these parts. The one unclear part of this tutorial for me, however, was when I was making the curved protrusion on the hammer head; I wasn't sure 
+As with the previous assignment, I didn't have many issues while making these parts. The one unclear part of this tutorial for me, however, was when I was making the curved protrusion on the hammer head; I wasn't sure which planes were in front of which. I managed to guess correctly the first time, which was Plane3, Plane2, Plane1, and Front, in order from front to back. For some reason the Front plane was actually behind the other ones, which may have contributed to my confusion regarding the order.
